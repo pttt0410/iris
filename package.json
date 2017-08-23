@@ -7,6 +7,13 @@
     "test": "nyc mocha --recursive test",
     "start": "node bin/run"
   },
+  "engines":{
+	"node":"6.9.5"
+  },
+  "reponsitory":{
+	"type":"git",
+	"url": "https://github.com/pttt0410/iris.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
