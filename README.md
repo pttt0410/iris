@@ -1,7 +1,8 @@
 # iris
 Building a slack bot automaticlly take time in a location and reponse for user
-![]
+![alt tag]
 (https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-22%20(15).png)
+<br /> <br />
 To take api key
 + Slack: https://luana-bot-corn.slack.com/apps/new/A0F7YS25R-bots
 + Wit: https://wit.ai/
@@ -10,7 +11,7 @@ To take api key
 
 In codeship.com to check code in github (create responsity and setup environment)
 + Test " added node engines and reponsitory" success
-![]
+![ ]
 (https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(1).png)
 
 + Merge pull request (ThuyTrang in master)
