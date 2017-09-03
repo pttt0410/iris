@@ -1,5 +1,5 @@
 # iris
-Building a slack bot automaticlly take time in a location and reponse for user<br />
+Building a slack bot automaticlly take time in a location and reponse for user
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-22%20(15).png)
 <br /> <br />
 To take api key
@@ -11,18 +11,25 @@ To take api key
 In codeship.com to check code in github (create responsity and setup environment)
 + Test " added node engines and reponsitory" success
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(1).png)
-
+<br /> <br />
 + Merge pull request (ThuyTrang in master)
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(2).png)
 + Merge success
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(6).png)
+<br /> <br />
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(7).png)
+<br /> <br />
 + Add commit " breaking things" by ThuyTrang
 + Test "breaking things" in codeship.com
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(9).png)
+<br /> <br />
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(10).png)
+<br /> <br />
 + To project can run, we add commit "fixing things"
 + Test project run success
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(12).png)
+<br /> <br />
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(14).png)
+<br /> <br />
 ![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(15).png)
+<br /> <br />
