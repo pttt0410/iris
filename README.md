@@ -10,28 +10,19 @@ To take api key
 
 In codeship.com to check code in github (create responsity and setup environment)
 + Test " added node engines and reponsitory" success
-![ ]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(1).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(1).png)
 
 + Merge pull request (ThuyTrang in master)
-![]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(2).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(2).png)
 + Merge success
-![]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(6).png)
-![]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(7).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(6).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(7).png)
 + Add commit " breaking things" by ThuyTrang
 + Test "breaking things" in codeship.com
-![]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(9).png)
-![]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(10).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(9).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(10).png)
 + To project can run, we add commit "fixing things"
 + Test project run success
-![]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(12).png)
-![]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(14).png)
-![]
-(https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(15).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(12).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(14).png)
+![](https://github.com/pttt0410/iris/blob/ThuyTrang/image/2017-08-23%20(15).png)
