@@ -39,7 +39,7 @@ Answers questions of users about time in the any countries
 
 ![](https://github.com/pttt0410/iris/blob/master/image/project-folder.png)
 
- ## #Support
+ ### Support
 
 To take api key
   + Slack: https://luana-bot-corn.slack.com/apps/new/A0F7YS25R-bots
